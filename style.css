@@ -1,0 +1,39 @@
+body {background: url("images/bg.gif")}
+.hamisi{width:821px;height: auto;margin: 20px auto}
+.loqo{width: 229px;height: 94px; background: url("images/logo.gif")}
+.menyu{width: 821px;height: 42px;background: url("images/menu_bg.gif")}
+.orta{width: 801px ;height: 700px; background: #e9e5e2;padding: 30px 0 0 20px}
+.alt{width: 821px ;height: 50px; float: left;background: url("images/csstemplatesmarket.gif") right no-repeat}
+.menyu  ul {margin: 0;padding: 0;list-style: none}
+.menyu  ul li{float: left}
+.menyu  ul li a{display: block;width: 80px ;height: 30px;text-decoration: none;font:bold 12px , "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";color:#fff;text-align: center;padding-top: 12px }
+.menyu ul li#home a{background: url("images/menu_bullet.gif") center bottom no-repeat}
+.menyu ul li a:hover{background: url("images/menu_bullet.gif") center bottom no-repeat }
+.orta1 {width: 426px;height: 30px;background: url("images/checked.gif")no-repeat;font:20px tahoma ; color:#24a4b7;padding-left: 30px}
+.orta2 {width: 446px; height: 177px;background: url("images/welcome_box.gif") no-repeat;float: left;padding: 25px  40px 0 25px;text-align: justify;line-height: 20px}
+.orta1 span{color: #d95b27;font: bold 24px tahoma }
+.orta2 span{color: #d17750;font: bold 12px tahoma }
+.readmore {background: url("images/read_more_bg.gif") no-repeat;color: #fff;width: 63px; height: 19px;margin: 10px 0 0 350px;padding: 4px 0 0 20px;font:bold 11px tahoma }
+.readmore a{color: #fff;text-decoration: none}
+.readmore a:hover{text-decoration: underline}
+.orta3{width: 187px ;height: 265px; float: left;background: url("images/3dbox.gif");margin: -25px 0 0 60px}
+.orta4{width: 466px ;height: 142px;font: bold 13px tahoma;float: left;padding: 10px 0 0 30px}
+.orta4 ul{margin: 0;padding: 0;list-style: none}
+.orta4 ul li{display: block;font: normal 11px tahoma;background: url("images/bullet_list.gif")no-repeat;width: 402px;height: 21px;padding: 4px 0 0 8px}
+.orta4 span {font-weight: bold}
+.orta5 {width: 268px; height: 139px;float: left;background: url("images/text_box.gif" );padding: 20px 0 0 20px;font: bold 12px tahoma}
+.orta5 span{font-size: 16px;}
+.text{border-radius: 5px;border: 1px solid #b5c6d0;}
+.duyme {background: url("images/login.gif") no-repeat;width: 83px; height: 24px;border: none}
+.orta6 {width: 466px;height: 229px;float: left;padding-left: 30px;padding-top: 10px;font: 13px tahoma ;text-align: justify;line-height: 20px}
+.orta6 ul{margin: 0;padding: 0;list-style: none}
+.orta6 ul li{display: block;width: 400px;height: 90px;background: url("images/news_icon.gif") no-repeat;padding-left: 40px;padding-top: 0px;border-bottom: 1px dashed #ccc}
+.orta6 span{font-weight: bold}
+.orta7 {width:288px; height: 25px;font:bold 14px tahoma;float: left ;margin-top: 20px}
+.orta8{width: 258px;height: 139px;background: url("images/text_box.gif");float: left;font:12px tahoma;text-align: justify;padding: 20px 10px 0 20px;font-style: italic;line-height: 20px}
+.orta8 span{font-weight: bold;font-size: 13px}
+.alt ul{margin: 0;padding: 0;list-style: none}
+.alt ul li{float: left}
+.alt ul li a{display: block;text-decoration: none;font: 13px tahoma;padding: 3px 10px;color: #757256}
+.alt ul li a:hover{text-decoration: underline}
+
